@@ -1,4 +1,4 @@
-# Regressão Logística - Plano de Saúde - dados anonimizados
+# Regressão Logística - Churn Plano de Saúde
   Autor: Rogério R R Coelho
 
 O objetivo é identificar os fatores relacionados à evasão (cancelamento) de beneficiários de um plano de saúde e gerar insights que ajudem a reduzir o churn.
