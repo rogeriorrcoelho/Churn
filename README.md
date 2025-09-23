@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="churn_metricas(treino).png" alt="Imagem do Projeto" />
+</p>
+
 # Regressão Logística - Churn Plano de Saúde
   Autor: Rogério R R Coelho
 
