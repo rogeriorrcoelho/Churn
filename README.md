@@ -24,8 +24,8 @@ A base de dados utilizada, embora anonimizada, contém as seguintes variáveis:
 ## 3. Etapas da Análise
 O projeto seguiu as seguintes etapas:
 
-Exploração e Limpeza dos Dados (EDA): Análise exploratória, tratamento de valores faltantes e outliers.
-Análise Estatística: Cálculo da taxa de churn, comparação entre grupos e identificação de variáveis relevantes.
-Visualização: Geração de gráficos para distribuições e heatmaps.
-Modelagem: Criação de um modelo preditivo de churn, avaliação de acurácia e interpretação de fatores.
-Recomendação: Sugestões de ações estratégicas baseadas nos insights obtidos.
+* Exploração e Limpeza dos Dados (EDA): Análise exploratória, tratamento de valores faltantes e outliers.
+* Análise Estatística: Cálculo da taxa de churn, comparação entre grupos e identificação de variáveis relevantes.
+* Visualização: Geração de gráficos para distribuições e heatmaps.
+* Modelagem: Criação de um modelo preditivo de churn, avaliação de acurácia e interpretação de fatores.
+* Recomendação: Sugestões de ações estratégicas baseadas nos insights obtidos.
